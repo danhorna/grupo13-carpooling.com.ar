@@ -1,0 +1,7 @@
+.element {
+        min-height: 100px;
+        width: 450px;
+        box-shadow: 0 2px 5px #666666;
+        padding: 10px;
+		margin-top:5px;
+    }
