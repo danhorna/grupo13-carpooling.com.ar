@@ -69,6 +69,7 @@ else {
 	
 	<div id="copyright" class="container">
 	<p>&copy; Carpooling. All rights reserved. |  Design by Grupo 13.</p>
+	<p><a href="contacto.php">Contacto</a> |  <a href="help.php">Ayuda</a></p>
 	</div>
 	
  </body>
